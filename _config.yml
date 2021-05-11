@@ -4,13 +4,13 @@ timezone: UTC
 collections:
   posts:
     title: Posts
-    output: true
+    output: false
   uploads:
     title: Uploads
-    output: true
+    output: false
   authors:
     title: Posts
-    output: true
+    output: false
 name: Xceon's Blog
 description: The shitty blog page of mine.
 avatar: https://cdn.discordapp.com/avatars/380793772088229888/0e8d77116d6cd80dc893eb298c25610d.png?size=256
