@@ -15,4 +15,10 @@ series_page_title:
 skip_toc: true
 ---
 
-# Test
+# Announcement from AUDIOGON's Discord Server
+We're currently looking for donations for our next and upcoming giveaway!
+Giveaway has planned around May 2021.
+Head over to #announcements channel on our Discord server to learn more!
+
+Join our Discord server at:
+[This little link](https://audiogonds.xyz/)
