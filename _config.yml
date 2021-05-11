@@ -1,5 +1,5 @@
 ---
-title: Best Blog Theme
+title: Xceon's Blog
 timezone: UTC
 collections:
   posts:
@@ -11,26 +11,26 @@ collections:
   authors:
     title: Posts
     output: true
-name: Best Blog Theme
-description: Best Blog Theme
-avatar: https://pythonprogramming.org/images/python.svg
+name: Xceon's Blog
+description: The shitty blog page of mine.
+avatar: https://cdn.discordapp.com/avatars/380793772088229888/0e8d77116d6cd80dc893eb298c25610d.png?size=256
 footer-links:
   dribbble:
-  email: pythonprogrammingorg@gmail.com
-  facebook: "loyalseo"
+  email: kyoukai_kanata@outlook.jp
+  facebook: "xInfinityEdge"
   flickr:
-  github: pythonprogramm9
+  github: Yuuhei
   instagram:
   linkedin:
   pinterest:
   rss:
-  twitter: pythonprogramm9
+  twitter: 
   stackoverflow:
   youtube:
-disqus: ranvir-singh
+disqus: 
 google_analytics: UA-73349527-12
-url: https://ranvir.xyz
-baseurl: "/best"
+url: https://yuuhei.github.io/xceon-blog/
+baseurl: "/xceon-blog"
 permalink: "/:title/"
 version: v1.2.0
 sidebar: true
@@ -62,5 +62,5 @@ paginate_path: "/posts/page:num/"
 include:
 - _categories
 - _authors
-show_authors: true
-telegram_bot: pythonprogrammingorgbot
+show_authors: false
+telegram_bot: 
