@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Announcement from AUDIOGON's Discord Server
+title: Announcement ~desu!
 date: 2021-12-05T08:42:00.000Z
 updated_date: 2019-12-05T08:42:00.000Z
 description: Read it, or don't 🤷
