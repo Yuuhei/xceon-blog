@@ -14,6 +14,7 @@ series_part: 1
 series_page_title: 
 skip_toc: true
 ---
+# Heyo!
 Hello, everyone.
 After some short conversations, we decided to hold a "mini" event!
 We're currently conducting a Giveaway Banner Making Contest!
