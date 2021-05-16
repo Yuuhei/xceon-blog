@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Giveaway Banner Making Contest!!
-date: 2021-16-05T08:42:00.000Z
+date: 2021-05-16T08:42:00.000Z
 updated_date: 2019-12-05T14:42:00.000Z
 description: Read it, or don't 🤷
 published: true
