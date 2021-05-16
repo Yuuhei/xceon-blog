@@ -9,8 +9,8 @@ categories:
 author_name: Xceon
 author_username: Xceon
 series_title: Discord Server Announcement
-series_unique_code: dc_ann
-series_part: 0
+series_unique_code: dc_ann2
+series_part: 1
 series_page_title: 
 skip_toc: true
 ---
