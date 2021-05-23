@@ -21,6 +21,6 @@ Congrats to all winners of Tidal Subscriptions (alam nyo na qng sino sino kayo),
 
 Stay tuned again for our next giveaway, prolly this 1st year anniversary of this server (guess the date KEKL)
 
-Invite ur alts friends @here in this server! Use the link in #null or visit https://audiogonds.xyz/
+Invite ur alts friends @here in this server! Use the link https://audiogonds.xyz/
 
 Thanks at sa uulitin ❤️
