@@ -13,7 +13,7 @@ collections:
     output: false
 name: Xceon's Blog
 description: The shitty blog page of mine.
-avatar: https://cdn.discordapp.com/avatars/380793772088229888/0e8d77116d6cd80dc893eb298c25610d.png?size=256
+avatar: https://raw.githubusercontent.com/Yuuhei/xceon-blog/gh-pages/images/pfp.png
 footer-links:
   dribbble:
   email: kyoukai_kanata@outlook.jp
