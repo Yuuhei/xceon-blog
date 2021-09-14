@@ -14,6 +14,7 @@ series_part: 0
 series_page_title: 
 skip_toc: true
 ---
+![img](https://media.discordapp.net/attachments/755366915341549678/887221553316655114/Banner2.png)
 Hello everyone!
 
 We're giving away these awesome prizes this September 19!
